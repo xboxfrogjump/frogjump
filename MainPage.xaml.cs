@@ -36,7 +36,6 @@ namespace App1
         public MainPage()
         {
             this.InitializeComponent();
-            loadLocalGame();
         }
         
         private async void Button_ClickAsync(object sender, RoutedEventArgs e)
